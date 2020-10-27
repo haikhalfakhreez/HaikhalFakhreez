@@ -6,10 +6,11 @@ I'm currently working on HTML, CSS, and JavaScript functionality for web browser
 
 My GitHub repos are basically my drawing canvas. Feel free to take a look.
 
-- [HTML-Sandbox](https://github.com/haikhalfakhreez/HTML-Sandbox)
-- [HTML-Sandbox (Website)] (https://haikhalfakhreez.github.io/HTML-Sandbox/)
+- HTML-Sandbox
+  - [GitHub repo](https://github.com/haikhalfakhreez/HTML-Sandbox)
+  - [Website](https://haikhalfakhreez.github.io/HTML-Sandbox/)
 
-<-- Some of my popular GitHub repos:
+<!-- Some of my popular GitHub repos:
 
 - [Hover.css](https://github.com/IanLunn/Hover)
 - [Sequence](https://github.com/IanLunn/Sequence)
