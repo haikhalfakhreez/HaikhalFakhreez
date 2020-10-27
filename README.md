@@ -8,7 +8,7 @@ My GitHub repos are basically my drawing canvas. Feel free to take a look.
 
 - [HTML-Sandbox](https://haikhalfakhreez.github.io/HTML-Sandbox/)
 
-## NOTE
+#### NOTE - I didn't
 <!-- Some of my popular GitHub repos:
 
 - [Hover.css](https://github.com/IanLunn/Hover)
