@@ -1,4 +1,4 @@
-# Haikhal Fakhreez - Self-taught
+# Haikhal Fakhreez - Self-taught Front-end Developer
 
 Hi, I’m Haikhal. I create amazing websites that are responsive, beautiful, and easy to use.
 
@@ -8,6 +8,7 @@ My GitHub repos are basically my drawing canvas. Feel free to take a look.
 
 - [HTML-Sandbox](https://haikhalfakhreez.github.io/HTML-Sandbox/)
 
+## NOTE
 <!-- Some of my popular GitHub repos:
 
 - [Hover.css](https://github.com/IanLunn/Hover)
