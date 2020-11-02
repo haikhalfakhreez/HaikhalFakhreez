@@ -7,12 +7,13 @@ I'm currently working on **HTML**, **CSS**, and **JavaScript** functionality for
 My GitHub repos are basically my drawing canvas. Feel free to take a look.
 
 - [Buttons!](https://haikhalfakhreez.github.io/Buttons/)
+- [2048 Game](https://haikhalfakhreez.github.io/2048/)
 - [HTML-Sandbox](https://haikhalfakhreez.github.io/HTML-Sandbox/)
 
 
 ## I am good at:
 
-- HTML & CSS
+- HTML5 & CSS3
 - JavaScript
 - Bootstrap
 - Responsive web design
