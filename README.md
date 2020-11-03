@@ -6,6 +6,12 @@ I'm currently working on **HTML**, **CSS**, and **JavaScript** functionality for
 
 My GitHub repos are basically my drawing canvas. Feel free to take a look.
 
+GitHub repos:
+- [Buttons!](https://github.com/haikhalfakhreez/buttons)
+- [2048 Game](https://github.com/haikhalfakhreez/2048)
+- [HTML-Sandbox](https://github.com/haikhalfakhreez/HTML-Sandbox)
+
+Live demo:
 - [Buttons!](https://haikhalfakhreez.github.io/Buttons/)
 - [2048 Game](https://haikhalfakhreez.github.io/2048/)
 - [HTML-Sandbox](https://haikhalfakhreez.github.io/HTML-Sandbox/)
