@@ -1,4 +1,4 @@
-# Haikhal Fakhreez - Self-taught Front-end Developer
+# Haikhal Fakhreez - Front-end Developer
 
 Hi, I’m Haikhal. I create amazing websites that are fast, responsive, and easy to use.
 
