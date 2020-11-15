@@ -9,22 +9,22 @@ I'm currently working on **HTML**, **CSS**, and **JavaScript** functionality for
 My GitHub repos are basically my drawing canvas. Feel free to take a look.
 
 GitHub repos:
-- [Buttons!](https://github.com/haikhalfakhreez/buttons)
+- [Hover Animations](https://github.com/haikhalfakhreez/Hover-Animations)
 - [2048 Game](https://github.com/haikhalfakhreez/2048)
+- [Buttons!](https://github.com/haikhalfakhreez/buttons)
 - [TabClock](https://github.com/haikhalfakhreez/TabClock)
-- [HTML-Sandbox](https://github.com/haikhalfakhreez/HTML-Sandbox)
 
 Live demo:
-- [Buttons!](https://haikhalfakhreez.github.io/Buttons/)
+- [Hover Animations](https://haikhalfakhreez.github.io/Hover-Animations/)
 - [2048 Game](https://haikhalfakhreez.github.io/2048/)
+- [Buttons!](https://haikhalfakhreez.github.io/Buttons/)
 - [TabClock](https://haikhalfakhreez.github.io/TabClock/)
-- [HTML-Sandbox](https://haikhalfakhreez.github.io/HTML-Sandbox/)
-
 
 ## I am good at:
 
-- HTML5 & CSS3
-- JavaScript
+- HTML5
+- CSS3
+- JavaScript (ES6)
 - Bootstrap
 - Responsive web design
 
@@ -33,5 +33,3 @@ Live demo:
 - More JavaScript & JQuery
 - More back-end tech - MySQL, PHP, Python
 - Definitely more front-end tech - frameworks (React, Angular, Vue)
-
-
