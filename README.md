@@ -1,6 +1,6 @@
-# Haikhal Fakhreez - Front-end Developer
+# Haikhal Fakhreez - Front-end Developer 👨🏻‍💻
 
-Hi, I’m Haikhal. I create amazing websites that are fast, responsive, and easy to use.
+👋🏻 Hi, I’m Haikhal. I create amazing websites that are fast, responsive, and easy to use.
 
 I'm currently working on **HTML**, **CSS**, and **JavaScript** functionality for web browsers.
 
@@ -20,7 +20,7 @@ Live demo:
 - [Buttons!](https://haikhalfakhreez.github.io/Buttons/)
 - [TabClock](https://haikhalfakhreez.github.io/TabClock/)
 
-## I am good at:
+## 👍🏻 I am good at:
 
 - HTML5
 - CSS3
@@ -28,7 +28,7 @@ Live demo:
 - Bootstrap
 - Responsive web design
 
-## Currently learning:
+## 📚 Currently learning:
 
 - More JavaScript & JQuery
 - More back-end tech - MySQL, PHP, Python
