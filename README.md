@@ -32,4 +32,4 @@ Live demo:
 
 - More JavaScript & JQuery
 - More back-end tech - MySQL, PHP, Python
-- Definitely more front-end tech - frameworks (React, Angular, Vue)
+- Definitely more front-end tech - frameworks (React)
