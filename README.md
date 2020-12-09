@@ -12,14 +12,14 @@ GitHub repos:
 - [Hover Animations](https://github.com/haikhalfakhreez/Hover-Animations)
 - [2048 Game](https://github.com/haikhalfakhreez/2048)
 - [Pokemon Library](https://github.com/haikhalfakhreez/Pokemon-Library)
-- [Buttons!](https://github.com/haikhalfakhreez/buttons)
+- [Emoji Search (React)](https://github.com/haikhalfakhreez/emoji-search)
 - [TabClock](https://github.com/haikhalfakhreez/TabClock)
 
 Live demo:
 - [Hover Animations](https://haikhalfakhreez.github.io/Hover-Animations/)
 - [2048 Game](https://haikhalfakhreez.github.io/2048/)
 - [Pokemon Library](https://haikhalfakhreez.github.io/Pokemon-Library/)
-- [Buttons!](https://haikhalfakhreez.github.io/Buttons/)
+- [Emoji Search (React)](https://haikhalfakhreez.github.io/emoji-search/)
 - [TabClock](https://haikhalfakhreez.github.io/TabClock/)
 
 ## 👍🏻 I am good at:
@@ -29,9 +29,10 @@ Live demo:
 - JavaScript (ES6)
 - Bootstrap
 - Responsive web design
+- React
 
 ## 📚 Currently learning:
 
 - More JavaScript & JQuery
 - More back-end tech - MySQL, PHP, Python
-- Definitely more front-end tech - frameworks (React)
+- Definitely more front-end tech - frameworks (Vue)
