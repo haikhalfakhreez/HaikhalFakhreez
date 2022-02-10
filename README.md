@@ -1,6 +1,6 @@
 # Haikhal Fakhreez - Front-end Developer 👨🏻‍💻 🇲🇾
 
-👋🏻 Hi, I’m Haikhal. I am a Front-end Engineer for Involve Asia Technologies and I have 2 years of experience making the web faster and prettier.
+👋🏻 Hi, I’m Haikhal. Front-end Engineer for Involve Asia Technologies with 2 years of experience making the web faster and prettier.
 
 - [Portfolio](https://www.haikhalfakhreez.com)
 
