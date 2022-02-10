@@ -2,8 +2,6 @@
 
 👋🏻 Hi, I’m Haikhal. I create amazing websites that are fast, responsive, and easy to use.
 
-I'm currently working on **HTML**, **CSS**, and **JavaScript** functionality for web browsers.
-
 - [Portfolio](https://haikhalfakhreez.github.io/Portfolio/)
 
 My GitHub repos are basically my drawing canvas. Feel free to take a look.
@@ -22,17 +20,18 @@ Live demo:
 - [Emoji Search (React)](https://haikhalfakhreez.github.io/emoji-search/)
 - [TabClock](https://haikhalfakhreez.github.io/TabClock/)
 
-## 👍🏻 I am good at:
+## 👍🏻 Technologies I used:
 
-- HTML5
-- CSS3
-- JavaScript (ES6)
+- Nuxt.js + Vue
+- Next.js + React
+- Laravel
+- Tailwind
 - Bootstrap
-- Responsive web design
-- React
+- TypeScript
 
 ## 📚 Currently learning:
 
-- More JavaScript & JQuery
-- More back-end tech - MySQL, PHP, Python
-- Definitely more front-end tech - frameworks (Vue)
+- JavaScript testing
+- SQL Query
+- Remix! 💿
+- NoSQL and Prisma ORM
