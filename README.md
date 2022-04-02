@@ -23,6 +23,7 @@
 My GitHub repos are basically my drawing canvas. Feel free to take a look.
 
 GitHub repos:
+- [ImageReader](https://github.com/haikhalfakhreez/ImageReader)
 - [Pokemon Library (Remix)](https://github.com/haikhalfakhreez/pokemon-library)
 - [Emoji Search (React)](https://github.com/haikhalfakhreez/emoji-search)
 - [PX to REM Converter](https://github.com/haikhalfakhreez/webconvert)
@@ -31,6 +32,7 @@ GitHub repos:
 - [TabClock](https://github.com/haikhalfakhreez/TabClock)
 
 Live demo:
+- [ImageReader](https://image-reader.vercel.app/)
 - [Pokemon Library (Remix)](https://pokemon-library.vercel.app/)
 - [Emoji Search (React)](https://haikhalfakhreez.github.io/emoji-search/)
 - [PX to REM Converter](https://webconvert.netlify.app/)
