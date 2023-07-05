@@ -1,41 +1,35 @@
 # Haikhal Fakhreez - Front-end Developer 👨🏻‍💻 🇲🇾
 
-👋🏻 Hi, I’m Haikhal. Front-end Engineer for Involve Asia Technologies with 2 years of experience making the web faster and prettier.
+👋🏻 Hi, I’m Haikhal. Front-end Engineer for Involve Asia with 3 years of experience making the web faster and prettier.
 
 - [Portfolio](https://www.haikhalfakhreez.com)
 
 ## 👍🏻 Technologies I used:
 
-- Nuxt.js + Vue
 - Next.js + React
+- Nuxt.js + Vue
+- Remix.run
+- Node.js
 - Laravel
 - Tailwind
-- Bootstrap
 - TypeScript
 
 ## 📚 Currently learning:
 
-- JavaScript testing
-- SQL Query
-- Remix! 💿
-- NoSQL and Prisma ORM
+- Front-end testing - MSW, Playwright
+- Docker deployment
+- CI/CD with Bitbucket Pipelines
 
 My GitHub repos are basically my drawing canvas. Feel free to take a look.
 
 GitHub repos:
-- [ImageReader](https://github.com/haikhalfakhreez/ImageReader)
-- [Pokemon Library (Remix)](https://github.com/haikhalfakhreez/pokemon-library)
-- [Emoji Search (React)](https://github.com/haikhalfakhreez/emoji-search)
+- [KTM Schedule](https://github.com/haikhalfakhreez/ktm-schedule)
+- [SVG-JSX](https://github.com/haikhalfakhreez/svg-jsx)
 - [PX to REM Converter](https://github.com/haikhalfakhreez/webconvert)
-- [Hover Animations](https://github.com/haikhalfakhreez/Hover-Animations)
-- [2048 Game](https://github.com/haikhalfakhreez/2048)
-- [TabClock](https://github.com/haikhalfakhreez/TabClock)
+- [ImageReader](https://github.com/haikhalfakhreez/ImageReader)
 
 Live demo:
-- [ImageReader](https://image-reader.vercel.app/)
-- [Pokemon Library (Remix)](https://pokemon-library.vercel.app/)
-- [Emoji Search (React)](https://haikhalfakhreez.github.io/emoji-search/)
+- [KTM Schedule](https://ktm-schedule.haikhalfakhreez.com/)
+- [SVG-JSX](https://svg-jsx.vercel.app/)
 - [PX to REM Converter](https://webconvert.netlify.app/)
-- [Hover Animations](https://haikhalfakhreez.github.io/Hover-Animations/)
-- [2048 Game](https://haikhalfakhreez.github.io/2048/)
-- [TabClock](https://haikhalfakhreez.github.io/TabClock/)
+- [ImageReader](https://image-reader.vercel.app/)
