@@ -1,24 +1,31 @@
-# Haikhal Fakhreez - Front-end Developer 👨🏻‍💻 🇲🇾
+# Haikhal Fakhreez - Frontend Software Engineer 👨🏻‍💻 🇲🇾
 
-👋🏻 Hi, I’m Haikhal. Front-end Engineer for Involve Asia with 3 years of experience making the web faster and prettier.
+👋🏻 Hi, I’m Haikhal. Frontend Engineer for Involve Asia with 3+ years of experience making the web faster and prettier.
 
 - [Portfolio](https://www.haikhalfakhreez.com)
 
 ## 👍🏻 Technologies I used:
 
-- Next.js + React
-- Nuxt.js + Vue
-- Remix.run
+- Next.js + React.js
 - Node.js
+- Nuxt.js + Vue.js
 - Laravel
-- Tailwind
 - TypeScript
-
-## 📚 Currently learning:
-
-- Front-end testing - MSW, Playwright
-- Docker deployment
-- CI/CD with Bitbucket Pipelines
+- Tailwind CSS
+- Radix UI / Headless UI
+- Material UI / Vuetify
+- Ant Design
+- Storybook
+- SWR / React Query
+- Zod
+- React Hook Form / VeeValidate
+- Zustand
+- Next Auth / Auth.js
+- i18n
+- Playwright
+- Docker
+- Framer Motion
+- Figma
 
 My GitHub repos are basically my drawing canvas. Feel free to take a look.
 
