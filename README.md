@@ -2,7 +2,7 @@
 
 👋🏻 Hi, I’m Haikhal. Frontend Engineer for Involve Asia with 3+ years of experience making the web faster and prettier.
 
-- [Portfolio](https://www.haikhalfakhreez.com)
+- [Personal Website](https://www.haikhalfakhreez.com)
 
 ## 👍🏻 Technologies I used:
 
@@ -31,12 +31,11 @@ My GitHub repos are basically my drawing canvas. Feel free to take a look.
 
 GitHub repos:
 - [KTM Schedule](https://github.com/haikhalfakhreez/ktm-schedule)
-- [SVG-JSX](https://github.com/haikhalfakhreez/svg-jsx)
-- [PX to REM Converter](https://github.com/haikhalfakhreez/webconvert)
-- [ImageReader](https://github.com/haikhalfakhreez/ImageReader)
+- [Fund Management System](https://github.com/haikhalfakhreez/fund-management-system)
+- [Task Management System](https://github.com/haikhalfakhreez/vuetify-task-mgt)
+- [Personal Website](https://github.com/haikhalfakhreez/portfolio)
 
 Live demo:
 - [KTM Schedule](https://ktm-schedule.haikhalfakhreez.com/)
-- [SVG-JSX](https://svg-jsx.vercel.app/)
-- [PX to REM Converter](https://webconvert.netlify.app/)
-- [ImageReader](https://image-reader.vercel.app/)
+- [Task Management System](https://vuetify-task-mgt.vercel.app/)
+- [Personal Website](https://www.haikhalfakhreez.com/)
