@@ -7,6 +7,7 @@
 ## Languages I'm familiar with:
 - TypeScript / JavaScript
 - Java
+- Go
 - PHP
 - Python
 
